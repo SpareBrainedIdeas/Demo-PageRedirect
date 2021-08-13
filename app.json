@@ -1,0 +1,26 @@
+{
+  "id": "58ed1e35-7557-483e-beb9-880a6096abeb",
+  "name": "Demo-PageRedirect",
+  "publisher": "Spare Brained Ideas AB",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 99700,
+      "to": 99719
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://sparebrained.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
